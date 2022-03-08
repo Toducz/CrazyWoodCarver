@@ -1,2 +1,2 @@
 # CrazyWoodCarver
-It is a university project. 
+It is an university project. 
